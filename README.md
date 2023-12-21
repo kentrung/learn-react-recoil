@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![image](https://github.com/kentrung/learn-react-recoil/assets/15643762/aef6b35c-639a-4c87-8bce-d0cc7752b31a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
